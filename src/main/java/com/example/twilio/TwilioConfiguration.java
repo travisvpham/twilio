@@ -9,7 +9,7 @@ public class TwilioConfiguration {
 
     private String accountSid;
     private String authToken;
-    private String trialNumber = "+18333761316";
+    private String trialNumber;
 
     public TwilioConfiguration() {
 
